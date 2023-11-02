@@ -1,0 +1,1 @@
+xfreerdp /u:"THM\Administrator" /p:"Password321" /v:10.10.122.128 /dynamic-resolution
