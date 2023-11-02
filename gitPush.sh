@@ -1,4 +1,7 @@
 git add .
+sleep 2
 git add .
-git -m commit $(echo Data -R)
+sleep 2
+git commit -m $(Date -R)
+sleep 2
 git push 
